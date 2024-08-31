@@ -1,0 +1,15 @@
+{
+  "homepage": "https://github.com/Dayuppy/Minecraft-HelloWorld",
+  "1.21.1": {
+    "1.0.0": "changelog.md", 
+    // List all versions of your mod for the given Minecraft version, along with their changelogs
+    // ...
+  },
+  "promos": {
+    "1.21.1-latest": "1.0.0",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.21.1-recommended": "1.0.0",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    // ...
+  }
+}
