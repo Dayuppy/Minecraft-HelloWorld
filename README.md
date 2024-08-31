@@ -1,8 +1,8 @@
 # Minecraft-HelloWorld
-My first mod for Minecraft developed for use with NeoForge and Minecraft version 1.21.x
+My first mod for Minecraft developed for use with NeoForge and Minecraft version 1.21.1
 <br></br>
 #  DOCUMENTATION AND INFORMATION
-You may view additional usage information here: https://dayuppy.github.io/MinecraftMods/
+You may view additional usage information here: https://dayuppy.github.io/Minecraft_Mods/
 <br></br>
 > [!IMPORTANT]
 > All of my mods are licensed under the GNU LESSER GENERAL PUBLIC LICENSE Version 2.1 (See the included LICENSE or visit (https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html#SEC1)
